@@ -1,6 +1,6 @@
 # Memos 导入导出 JSON
 
-此项目为 [Memos](https://github.com/usememos/memos) 的数据导入导出工具
+此项目为 [Memos](https://github.com/usememos/memos) 的数据导入导出工具，[Memos 项目组不打算做导入导出的功能](https://github.com/usememos/memos/issues/778)，而是鼓励大家备份 db 文件，但许多 serverless 平台无法直接登录容器（例如 Zeabur），就根本无法备份了
 
 WIP: 暂时只支持文字，不支持附件
 
